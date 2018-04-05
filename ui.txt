@@ -1,0 +1,17 @@
+User Interface Developer Skills & Responsibilities
+Typical day-to-day activities and marketable skill sets for UI developers include the following. User interface developers:
+
+Are fluent in the essential front-end web development languages, i.e., HTML, CSS and JavaScript.
+Are skilled in modern application programming languages, such as Java, .Net, AJAX, PHP, XHTML and Ruby.
+Use Adobe Creative Suite programs, e.g., Photoshop, Illustrator, Flash & Flex to mockup UI elements.
+Use responsive web design to create applications that automatically conform to multiple screen sizes/devices.
+Conduct usability testing to identify and fix UI issues, and gather real-world intelligence from target users.
+Use social network APIs (from Facebook, Twitter, Google+, LinkedIn, Pinterest, etc.) to integrate social actions.
+Collaborate with business and IT decision makers to discuss user interface requirements and brainstorm UI ideas.
+Use visual aids such as wireframes, storyboards and UI flow charts, to plan and present user interface designs.
+Are familiar with popular content management systems (CMS), e.g., WordPress, Joomla!, Magneto & osCommerce.
+Wield their knowledge of Search Engine Optimization (SEO) to develop search-friendly websites and interfaces.
+Keep current with the latest trends and best practices of UI/UX design and HCI (human-computer interaction).
+UI development managers need superior soft skills in areas like verbal/written communication, team leadership and project management, to effectively communicate with business decision-makers and subordinates.
+
+
